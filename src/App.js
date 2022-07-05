@@ -1,4 +1,6 @@
 import "./App.css";
+import "./Utils.css";
+
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
 import MainRoutes from "./Routes/MainRoutes";
